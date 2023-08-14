@@ -1,0 +1,27 @@
+_repo: Edict-du-Roy-Declaration-sur-les-precedents-Edicts-de-Pacification_71298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: IV, Henri
+    gutenberg_agent_id: '56161'
+    url: http://www.gutenberg.org/2009/agents/56161
+description: ''
+gutenberg_issued: '2023-07-30'
+identifiers:
+  gutenberg: '71298'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k317003w/f1.double.r=edict%20de%20nantes
+pgterms:marc905: 20180621105105henriiv
+pgterms:marc906: '1599'
+pgterms:marc907: FR
+production_note: Produced by Hans Pieterse, Claudine Corbasson (This file was produced
+  from images generously made available by the Bibliothèque nationale de France (BnF/Gallica)
+  at http://gallica.bnf.fr)
+publication_note: '  $aFrance :$bIamet Mettayer & P. l''Huillier, $c1599.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Edict du Roy, & Declaration sur les precedents Edicts de Pacification
+url: http://www.gutenberg.org/ebooks/71298
